@@ -68,23 +68,23 @@ prices:
     ## CHANGE HERE THE INFO IN THE LEFT BOX
     left_section:
       header:
-        heading_one: "PAY ONLY AFTER"
-        heading_two: "YOU GET A JOB"
-        sub_heading: "with the Income Sharing Agreement (ISA)"
+        heading_one: "PAY UPFRONT"
+        heading_two: "(OUT OF POCKET)"
+        sub_heading: "ask for our financing and scolarships"
       content:
-        price: "9% of Salary"
-        price_info: "until fully paid, and only if you get the job"
+        price: " "
+        price_info: "Full-Time program is not available in this location"
 
     ## RIGHT BOX SECTION
     ## CHANGE HERE THE INFO IN THE RIGHT BOX
     right_section:
       header:
-        heading_one: "PAY UPFRONT"
-        heading_two: "(OUT OF POCKET)"
-        sub_heading: "ask for our financing and scollarships"
+        heading_one: "EXTENDEND"
+        heading_two: "PAYMENT PLAN"
+        sub_heading: "the best deal in Caracas"
       content:
         price: " "
-        price_info: " "
+        price_info: "Applies for our Part-Time program"
   ## *****************
   ## PART-TIME SECTION
   ## *****************
@@ -96,22 +96,22 @@ prices:
     ## CHANGE HERE THE INFO IN THE LEFT BOX
     left_section:
       header:
-        heading_one: "PAY ONLY AFTER"
-        heading_two: "YOU GET A JOB"
-        sub_heading: "with the Income Sharing Agreement (ISA)"
+        heading_one: "PAY UPFRONT"
+        heading_two: "(OUT OF POCKET)"
+        sub_heading: "ask for our financing and scolarships"
       content:
-        price: "9% of Salary"
-        price_info: "until fully paid, and only if you get the job"
+        price: "Contac Us"
+        price_info: " "
 
     ## RIGHT BOX SECTION
     ## CHANGE HERE THE INFO IN THE RIGHT BOX
     right_section:
       header:
-        heading_one: "PAY UPFRONT"
-        heading_two: "(OUT OF POCKET)"
-        sub_heading: " "
+        heading_one: "EXTENDEND"
+        heading_two: "PAYMENT PLAN"
+        sub_heading: "the best deal in Caracas"
       content:
-        price: "?"
+        price: " "
         price_info: "please contact us for more information about prices, scolarships and financing options."
 
 active_campaign_location_slug: "caracas-venezuela"
