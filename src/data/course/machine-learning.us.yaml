@@ -1,6 +1,6 @@
 meta_info:
   slug: machine-learning-engineering
-  title: "Become a AI Machine Learning Engineer at 4Geeks Academy"
+  title: "Become an AI Machine Learning Engineer at 4Geeks Academy"
   description: "Our new course: Machine Learning Engineering, will help you master advanced coding techniques and get hired by the biggest tech companies"
   bc_slug: "machine-learning"
   image: ""
@@ -42,24 +42,25 @@ details:
   left_labels:
     description: "DESCRIPTION:"
     projects: "PROJECTS:"
-    duration: "DURATION:"
+    
+    : "DURATION:"
     skills: "Skills / Weeks:"
   details_modules:
     - module_name: "Python"
       title: "Introduction to Python"
       description: >
-        Starting from a Prework (2 weeks before), get introduced into the world of coding and learn Python and Algorithms' basics; this module will help you prepare to code and develop the different A.I. model training and evaluations for the next step.
-      projects: "Peer to Peer video chat application (using WebRTC no backend required for communication)"
+        Starting from a Pre-work (2 weeks before), get introduced into the world of coding and learn Python and Algorithms' basics; this module will help you prepare to code and develop the different A.I. model training and evaluations for the next step.
+      projects: "Peer-to-Peer video chat application (using WebRTC no backend required for communication)"
       slug: "python-intro"
-      duration: "1 week"
+      duration: "1 wk"
       step: 2
     - module_name: "Data"
       title: "Data Science for AI"
       description: >
         We don’t simply train you in Data Science, we prepare you for Data Science in the Age of AI. Leveraging Python, we take you through Data Analysis & Visualizations, Database Management & Workflow, Applied Linear Algebra with Statistical Inference and Modeling. You’ll end this module by delivering a complete project where you need to apply data cleaning, data analysis, and prediction models on real-world datasets.
-      projects: "Peer to Peer video chat application (using WebRTC no backend required for communication)"
+      projects: "Peer-to-Peer video chat application (using WebRTC no backend required for communication)"
       slug: "data-science"
-      duration: "2 weeks"
+      duration: "2 wks"
       step: 2
     - module_name: "Machine L."
       title: "Practical Machine Learning"
@@ -79,12 +80,12 @@ details:
     - module_name: "A.I."
       title: "Practical Topics in A.I."
       description: "This is where we prepare you for the most common use cases and business scenarios you’ll engage in. We also review some of the tools that are powerful for deep data analysis, such as Natural Langue Processing (NLP)and Machine Vision (object recognition, deep fakes, etc.). Lastly, we train you on the explainability and visualization of your solutions so you can properly engage with executives and business decision-makers. Your final project will include applying NLP or Machine Vision techniques to a real-world and complex challenge."
-      projects: ""
+      projects: "An end-to-end project to apply one of the neural network types on a real-world scenario use case and to compare different practical techniques learned in the class"
       slug: "ai"
       duration: "3 wks"
       step: 3
     - module_name: "Deploy & Maint."
-      title: "A.I. In Produciton"
+      title: "A.I. In Production"
       description: "One of the most important aspects of developing Artificial Intelligence solutions is understanding how to prepare, deploy, and manage the solution in a Production Environment. We walk you through developing an AI Strategy, Machine Learning Lifecycle of development and deployment, Machine Learning Operations (MLOps), as well as Privacy, Security, and Ethics. Your final project will be to deploy your AI solution into production."
       projects: "You will be given a real life application challenge with legacy code. You will need to understand the code and build a continued deployment in an integration system that guarantees quality."
       slug: "quality-deploy"
